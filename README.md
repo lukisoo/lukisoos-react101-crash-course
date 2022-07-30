@@ -1,3 +1,7 @@
+# Lukisoo's React Crash Course
+
+Each branch goes over some certain features/functionality.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
