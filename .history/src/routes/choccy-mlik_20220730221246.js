@@ -17,7 +17,7 @@ const ChoccyMilk = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn how to make this choccy milk soon!
+          Learn React
         </a>
       </header>
     </div>
