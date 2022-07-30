@@ -3,8 +3,6 @@ import "./App.css";
 
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-import Home from "../routes/home";
-
 // We want to put all our routes in our App.js
 
 function App() {
@@ -12,7 +10,7 @@ function App() {
     <>
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/" element={<App />} />
         </Routes>
       </BrowserRouter>
       ;
